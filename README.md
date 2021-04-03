@@ -5,7 +5,7 @@
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Cutiepii suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [Cutiepii Robot](https://t.me/Cutiepii_Robot).
+Can be found on telegram as [Hentai Robot](https://t.me/Cutiepii_Robot).
 
 The Support group can be reached out to at [Hentai Support](https://t.me/Cutiepii_Support), where you can ask for help about [Hentai Robot](https://t.me/Cutiepii_Robot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
