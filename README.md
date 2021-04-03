@@ -23,17 +23,9 @@ News channel as at [Hentai Updates](https://t.me/@hentai_update)
  - Lastly, if you are found to run this repo without the code being open sourced or the repository link not mentioned in the bot, we will push a gban for you in our network because of being in violation of the license, you are free to be a dick and not respect the open source code (we do not mind) but we will not be having you around our chats.
 
 
-<details>
-  <summary>Steps to deploy on Heroku !! </summary>
 
-```
-Fill in all the details, Deploy!
-Now go to https://dashboard.heroku.com/apps/(app-name)/resources ( Replace (app-name) with your app name )
-REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
-Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
-```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnimeKaizoku/SaitamaRobot.git)
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/theshashankk/HentaiRoBoT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 </details>  
 <details>
