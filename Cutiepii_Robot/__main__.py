@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hellow` [🤗](https://telegra.ph/file/6d3faf98f11e4740b2608.jpg) `My name is` *Hentai*
+`Hellow` [🤗](https://telegra.ph/file/4f3e6b92517012f5cea7f.jpg) `My name is` *Hentai*
 `I'm here to help you manage your groups! And U can use me in fight also Hit` *📚Commands* `button below to find out more about how to use me to my full potential.` 
 """
 
@@ -98,11 +98,11 @@ buttons = [
 
 
 HELP_STRINGS = """
-`Hi.. I'm` [Hentai🙋‍♀️](https://telegra.ph/file/6d3faf98f11e4740b2608.jpg)
+`Hi.. I'm` [Hentai🙋‍♀️](https://telegra.ph/file/4f3e6b92517012f5cea7f.jpg)
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
-MASHA_IMG = "https://telegra.ph/file/6d3faf98f11e4740b2608.jpg"
+MASHA_IMG = "https://telegra.ph/file/4f3e6b92517012f5cea7f.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Shashank](t.me/TheShashank)"""
@@ -358,7 +358,7 @@ def Masha_about_callback(update, context):
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \nHere is the [💾Repository](https://github.com/theshashankk/hentaiRobot).
-                 \n\nIf you have any question about HENTAI ROBO, let us know at @ShizukaSupport.""",
+                 \n\nIf you have any question about HENTAI ROBO, let us know at @hentai_upport.""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
