@@ -197,7 +197,7 @@ For starters click on this button
 
 
 ## Credits
-The bot is based on the original work done by [Rajkumar](https://github.com/Rajkumar-27)
+The bot is based on the original work done by <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/QueenArzoo/BhabhiRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
 Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot (will add it later, this note says unless it is done)
