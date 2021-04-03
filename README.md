@@ -7,9 +7,9 @@ A modular Telegram Python bot running on python3 with a sqlalchemy database and 
 
 Can be found on telegram as [Hentai Robot](https://t.me/Hentaii_RoBoT).
 
-The Support group can be reached out to at [Hentai Support](https://t.me/Cutiepii_Support), where you can ask for help about [Hentai Robot](https://t.me/Cutiepii_Robot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Hentai Support](https://t.me/hentai_support), where you can ask for help about [Hentai Robot](https://t.me/Hentaii_Robot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
-News channel as at [Hentai Updates](https://t.me/Cutiepii_Updates) 
+News channel as at [Hentai Updates](https://t.me/@hentai_update) 
 
 
 ## Stats
