@@ -1,6 +1,6 @@
 # Contributing
 
-Contributions are very welcome! Here are some guidelines on how the project is designed.
+**Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
 
 ### CodeStyle
 
