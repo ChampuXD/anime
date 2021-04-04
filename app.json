@@ -41,7 +41,7 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "required": true,
+         "required": false,
          "value": ""
       },
       "HEROKU_API_KEY": {
@@ -58,7 +58,7 @@
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
-         "required": true,
+         "required": false,
          "value": ""
       },
       "MONGO_DB_URI": {
@@ -68,12 +68,12 @@
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
-         "required": true,
+         "required": false,
          "value": "-1001392103597"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
-         "required": true,
+         "required": false,
          "value": "-1001392103597"
       },      
       "CASH_API_KEY": {
@@ -103,7 +103,7 @@
       }, 
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
-         "value": "True"
+         "value": false"
       },
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
