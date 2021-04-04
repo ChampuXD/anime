@@ -83,7 +83,7 @@
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
-         "required": true,
+         "required": false,
          "value": "-xyz"
       },
       "API_OPENWEATHER": {
@@ -103,7 +103,7 @@
       }, 
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
-         "value": false"
+         "value": "true
       },
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
